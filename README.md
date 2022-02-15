@@ -8,7 +8,7 @@ They can be of different types: fire, water, electric, grass, ghost and so on. T
 In this file, we are going to analyze data to answer the following questions:
 
 - Which type of Pokémon has the highest average HP?
-- Which type of Pokémon is the fatest?
+- Which type of Pokémon is the fastest?
 - Which type of Pokémon has the best attack?
 - Which type of Pokémon has the strongest defense?
 - Which type of Pokémon has the strongest total strength on average?
